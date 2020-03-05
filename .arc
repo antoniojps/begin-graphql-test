@@ -1,5 +1,7 @@
 @app
-begin-app
+create-2a8
+
+@static
 
 @http
 post /graphql
